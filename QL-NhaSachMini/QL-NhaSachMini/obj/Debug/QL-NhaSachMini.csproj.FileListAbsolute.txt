@@ -1,0 +1,15 @@
+D:\LapTrinhWin\QL-NhaSachMini\QL-NhaSachMini\obj\Debug\QL-NhaSachMini.csprojAssemblyReference.cache
+D:\LapTrinhWin\QL-NhaSachMini\QL-NhaSachMini\obj\Debug\QL_NhaSachMini.frmLogin.resources
+D:\LapTrinhWin\QL-NhaSachMini\QL-NhaSachMini\obj\Debug\QL_NhaSachMini.Properties.Resources.resources
+D:\LapTrinhWin\QL-NhaSachMini\QL-NhaSachMini\obj\Debug\QL-NhaSachMini.csproj.GenerateResource.cache
+D:\LapTrinhWin\QL-NhaSachMini\QL-NhaSachMini\obj\Debug\QL-NhaSachMini.csproj.CoreCompileInputs.cache
+D:\LapTrinhWin\QL-NhaSachMini\QL-NhaSachMini\obj\Debug\QL_NhaSachMini.frmMain.resources
+D:\LapTrinhWin\QL-NhaSachMini\QL-NhaSachMini\bin\Debug\QL-NhaSachMini.exe.config
+D:\LapTrinhWin\QL-NhaSachMini\QL-NhaSachMini\bin\Debug\QL-NhaSachMini.exe
+D:\LapTrinhWin\QL-NhaSachMini\QL-NhaSachMini\bin\Debug\QL-NhaSachMini.pdb
+D:\LapTrinhWin\QL-NhaSachMini\QL-NhaSachMini\obj\Debug\QL-NhaSachMini.exe
+D:\LapTrinhWin\QL-NhaSachMini\QL-NhaSachMini\obj\Debug\QL-NhaSachMini.pdb
+D:\LapTrinhWin\QL-NhaSachMini\QL-NhaSachMini\obj\Debug\QL_NhaSachMini.frmSP.resources
+D:\LapTrinhWin\QL-NhaSachMini\QL-NhaSachMini\obj\Debug\QL_NhaSachMini.frmChangePersional.resources
+D:\LapTrinhWin\QL-NhaSachMini\QL-NhaSachMini\obj\Debug\QL_NhaSachMini.frmTK.resources
+D:\LapTrinhWin\QL-NhaSachMini\QL-NhaSachMini\obj\Debug\QL_NhaSachMini.frmHD.resources
